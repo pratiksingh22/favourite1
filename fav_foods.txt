@@ -1,0 +1,4 @@
+my fav_foods:
+burger
+pizza
+chinese
